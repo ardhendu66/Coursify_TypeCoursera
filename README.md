@@ -1,8 +1,9 @@
 # Coursify
 A Course Selling Web Application
 
-# Run in localhost
+# Go to client folder
 > cd client
+# Run in localhost
 > npm start
 
 # Start backend Server
